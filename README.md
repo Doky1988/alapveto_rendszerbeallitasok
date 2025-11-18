@@ -25,14 +25,14 @@ A script futtatásához **root jogosultság** szükséges.
 
 ### Futtatás
 
-1.  Mentsd el a scriptet (pl. `alapbeallitas.sh` néven).
+1.  Mentsd el a scriptet (pl. `alapveto_rendszerbeallitasok.sh` néven).
 2.  Tedd futtathatóvá a fájlt:
     ```bash
-    chmod +x alapbeallitas.sh
+    chmod +x alapveto_rendszerbeallitasok.sh
     ```
 3.  Futtasd a scriptet root jogosultsággal:
     ```bash
-    sudo ./alapbeallitas.sh
+    sudo ./alapveto_rendszerbeallitasok.sh
     ```
 
 ### Interakció
