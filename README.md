@@ -1,6 +1,6 @@
-# 🛠️ Rendszertelepítési Alapbeállítások (Debian 13)
+# 🛠️ Rendszertelepítési Alapbeállítások Script (Debian/Ubuntu)
 
-Egy egyszerű **Bash script** a frissen telepített **Debian 13** rendszer kezdeti beállításainak automatizálására és biztonságossá tételére.
+Egy egyszerű **Bash script** a frissen telepített **Debian** vagy **Ubuntu** rendszerek kezdeti beállításainak automatizálására és biztonságossá tételére.
 
 ---
 
