@@ -1,0 +1,1 @@
+# alapveto_rendszerbeallitasok
