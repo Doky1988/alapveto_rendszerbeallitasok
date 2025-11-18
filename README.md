@@ -2,6 +2,8 @@
 
 Egy egyszerű **Bash script** a frissen telepített **Debian** vagy **Ubuntu** rendszerek kezdeti beállításainak automatizálására és biztonságossá tételére.
 
+* **TESZTELVE: Debian 13**
+
 ---
 
 ## 📜 Jellemzők
