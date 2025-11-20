@@ -27,12 +27,17 @@ A script futtatásához **root jogosultság** szükséges.
 
 ### Futtatás
 
-1.  Mentsd el a scriptet (pl. `alapveto_rendszerbeallitasok.sh` néven).
-2.  Tedd futtathatóvá a fájlt:
+1.  Hozz létre egy fájlt (pl. `alapveto_rendszerbeallitasok.sh`) néven.
+    ```bash
+    nano alapveto_rendszerbeallitasok.sh
+    ```
+2. Másold bele az itt található `alapveto_rendszerbeallitasok.sh` fájl tartalmát, majd mentsd el.
+
+3.  Tedd futtathatóvá a fájlt:
     ```bash
     chmod +x alapveto_rendszerbeallitasok.sh
     ```
-3.  Futtasd a scriptet root jogosultsággal:
+4.  Futtasd a scriptet root jogosultsággal:
     ```bash
     sudo ./alapveto_rendszerbeallitasok.sh
     ```
